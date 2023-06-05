@@ -105,6 +105,7 @@
             Controls.Add(btnCancelar);
             Controls.Add(btnGravar);
             Name = "TelaCategoriaForm";
+            ShowIcon = false;
             Text = "Cadastro de Categorias";
             ResumeLayout(false);
             PerformLayout();
